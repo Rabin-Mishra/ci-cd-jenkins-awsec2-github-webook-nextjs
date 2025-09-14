@@ -20,9 +20,7 @@ export default function Home() {
             </code>
             .
           </li>
-          <li className="tracking-[-.01em]">
-            Pushing Code to check whether pipeline automates or not on Jenkins.
-          </li>
+          <li className="tracking-[-.01em]">Push code to see pipeline.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
